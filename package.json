@@ -11,5 +11,9 @@
   "description": "",
   "dependencies": {
     "testcafe": "^3.6.1"
+  },
+  "devDependencies": {
+    "@percy/cli": "^1.28.8",
+    "@percy/testcafe": "^1.0.4"
   }
 }
